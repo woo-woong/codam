@@ -1,67 +1,67 @@
-<mxfile host="app.diagrams.net" modified="2024-12-29T06:45:10.922Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" etag="IITYKUk1oBsB3KsfXyiM" version="23.1.6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-12-29T06:47:30.066Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" etag="UOLha0HZgai2SzSUWEzx" version="23.1.6" type="github">
   <diagram name="페이지-1" id="oW8P6AYW-4QuRP_qlzCb">
     <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="CNDJ5HhhQ7eD_SKjAiTk-16" value="개발 범위" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=13;fillColor=none;strokeColor=#b85450;fontStyle=1;strokeWidth=6;" vertex="1" parent="1">
+        <mxCell id="CNDJ5HhhQ7eD_SKjAiTk-16" value="개발 범위" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=13;fillColor=none;fontStyle=1;strokeWidth=3;labelBackgroundColor=none;shadow=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="210" y="120" width="410" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="CNDJ5HhhQ7eD_SKjAiTk-1" value="Client" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="CNDJ5HhhQ7eD_SKjAiTk-1" value="Client" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=13;labelBackgroundColor=none;shadow=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="239" y="170" width="160" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="CNDJ5HhhQ7eD_SKjAiTk-2" value="Server" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="CNDJ5HhhQ7eD_SKjAiTk-2" value="Server" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;labelBackgroundColor=none;shadow=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="479" y="250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CNDJ5HhhQ7eD_SKjAiTk-3" value="Web" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="CNDJ5HhhQ7eD_SKjAiTk-3" value="Web" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;labelBackgroundColor=none;shadow=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="259" y="210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CNDJ5HhhQ7eD_SKjAiTk-4" value="Chrome Extension" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="CNDJ5HhhQ7eD_SKjAiTk-4" value="Chrome Extension" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;labelBackgroundColor=none;shadow=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="259" y="290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CNDJ5HhhQ7eD_SKjAiTk-5" value="Online Judge Web" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="CNDJ5HhhQ7eD_SKjAiTk-5" value="Online Judge Web" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;labelBackgroundColor=none;shadow=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="49" y="290" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CNDJ5HhhQ7eD_SKjAiTk-6" value="" style="endArrow=none;html=1;rounded=0;fontSize=13;" edge="1" parent="1" source="CNDJ5HhhQ7eD_SKjAiTk-4" target="CNDJ5HhhQ7eD_SKjAiTk-5">
+        <mxCell id="CNDJ5HhhQ7eD_SKjAiTk-6" value="" style="endArrow=none;html=1;rounded=1;fontSize=13;labelBackgroundColor=none;fontColor=default;shadow=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="CNDJ5HhhQ7eD_SKjAiTk-4" target="CNDJ5HhhQ7eD_SKjAiTk-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="359" y="330" as="sourcePoint" />
             <mxPoint x="409" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CNDJ5HhhQ7eD_SKjAiTk-7" value="" style="endArrow=none;html=1;rounded=0;fontSize=13;" edge="1" parent="1" source="CNDJ5HhhQ7eD_SKjAiTk-4" target="CNDJ5HhhQ7eD_SKjAiTk-2">
+        <mxCell id="CNDJ5HhhQ7eD_SKjAiTk-7" value="" style="endArrow=none;html=1;rounded=1;fontSize=13;labelBackgroundColor=none;fontColor=default;shadow=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="CNDJ5HhhQ7eD_SKjAiTk-4" target="CNDJ5HhhQ7eD_SKjAiTk-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="269" y="318" as="sourcePoint" />
             <mxPoint x="149" y="293" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CNDJ5HhhQ7eD_SKjAiTk-8" value="" style="endArrow=none;html=1;rounded=0;fontSize=13;" edge="1" parent="1" source="CNDJ5HhhQ7eD_SKjAiTk-2" target="CNDJ5HhhQ7eD_SKjAiTk-3">
+        <mxCell id="CNDJ5HhhQ7eD_SKjAiTk-8" value="" style="endArrow=none;html=1;rounded=1;fontSize=13;labelBackgroundColor=none;fontColor=default;shadow=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="CNDJ5HhhQ7eD_SKjAiTk-2" target="CNDJ5HhhQ7eD_SKjAiTk-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="389" y="316" as="sourcePoint" />
             <mxPoint x="489" y="294" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CNDJ5HhhQ7eD_SKjAiTk-10" value="현재는 백준 사이트를 의미하나,&lt;br&gt;다른 online judge 사이트로 확장할 수 있도록 고려한다." style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;verticalAlign=bottom;" vertex="1" parent="1">
+        <mxCell id="CNDJ5HhhQ7eD_SKjAiTk-10" value="현재는 백준 사이트를 의미하나,&lt;br&gt;다른 online judge 사이트로 확장할 수 있도록 고려한다." style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;verticalAlign=bottom;rounded=1;labelBackgroundColor=none;shadow=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="19" y="30" width="180" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="CNDJ5HhhQ7eD_SKjAiTk-11" value="" style="endArrow=none;html=1;rounded=0;fontSize=13;" edge="1" parent="1" source="CNDJ5HhhQ7eD_SKjAiTk-5" target="CNDJ5HhhQ7eD_SKjAiTk-10">
+        <mxCell id="CNDJ5HhhQ7eD_SKjAiTk-11" value="" style="endArrow=none;html=1;rounded=1;fontSize=13;labelBackgroundColor=none;fontColor=default;shadow=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="CNDJ5HhhQ7eD_SKjAiTk-5" target="CNDJ5HhhQ7eD_SKjAiTk-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="269" y="330" as="sourcePoint" />
             <mxPoint x="179" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CNDJ5HhhQ7eD_SKjAiTk-12" value="Github" style="rounded=0;whiteSpace=wrap;html=1;fontSize=13;" vertex="1" parent="1">
+        <mxCell id="CNDJ5HhhQ7eD_SKjAiTk-12" value="Github" style="rounded=1;whiteSpace=wrap;html=1;fontSize=13;labelBackgroundColor=none;shadow=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="659" y="250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CNDJ5HhhQ7eD_SKjAiTk-13" value="" style="endArrow=none;html=1;rounded=0;fontSize=13;" edge="1" parent="1" source="CNDJ5HhhQ7eD_SKjAiTk-2" target="CNDJ5HhhQ7eD_SKjAiTk-12">
+        <mxCell id="CNDJ5HhhQ7eD_SKjAiTk-13" value="" style="endArrow=none;html=1;rounded=1;fontSize=13;labelBackgroundColor=none;fontColor=default;shadow=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="CNDJ5HhhQ7eD_SKjAiTk-2" target="CNDJ5HhhQ7eD_SKjAiTk-12">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="389" y="319" as="sourcePoint" />
             <mxPoint x="489" y="301" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="CNDJ5HhhQ7eD_SKjAiTk-14" value="문제를 풀면 github으로 commit을 남길 수 있도록 한다." style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;verticalAlign=bottom;" vertex="1" parent="1">
+        <mxCell id="CNDJ5HhhQ7eD_SKjAiTk-14" value="문제를 풀면 github으로 commit을 남길 수 있도록 한다." style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;verticalAlign=bottom;rounded=1;labelBackgroundColor=none;shadow=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="629" y="30" width="180" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="CNDJ5HhhQ7eD_SKjAiTk-15" value="" style="endArrow=none;html=1;rounded=0;fontSize=13;" edge="1" parent="1" source="CNDJ5HhhQ7eD_SKjAiTk-12" target="CNDJ5HhhQ7eD_SKjAiTk-14">
+        <mxCell id="CNDJ5HhhQ7eD_SKjAiTk-15" value="" style="endArrow=none;html=1;rounded=1;fontSize=13;labelBackgroundColor=none;fontColor=default;shadow=0;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="CNDJ5HhhQ7eD_SKjAiTk-12" target="CNDJ5HhhQ7eD_SKjAiTk-14">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="119" y="300" as="sourcePoint" />
             <mxPoint x="119" y="120" as="targetPoint" />
